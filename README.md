@@ -17,4 +17,4 @@ Download the file and open it in Excel. For the .xlsm files, click **Enable Cont
 
 ## Contact
 
-jik27190@gmail.com | linkedin.com/in/Prakash-kumar-aa1234435
+jik27190@gmail.com | https://linkedin.com/in/Prakash-kumar-aa1234435
